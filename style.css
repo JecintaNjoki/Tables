@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    align-content: space-between;
+}
+.cont1{
+    width: auto;
+    height: 100px;
+}
+.cont2{
+    margin-left: 10%;
+
+}
+#heading{
+    color: blue;
+}
+/* body {
+    text-align: center;
+     
+} */
+#image{
+    float: left;
+    /* border-radius: 20px;
+    width: auto;
+    height: 650px; */
+}
+.form{
+    color: orangered;
+
+}
+
+  
+ 
